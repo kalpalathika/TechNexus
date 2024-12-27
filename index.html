@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KR Tech Nexus</title>
+    <link rel="icon" href="./assets/media/favicon.png" type="image/png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <link rel="stylesheet" href="assets/css/styles.css"> <!-- Link to your CSS file -->
+</head>
+<body id="main-page">
+    <!-- Header Section with Navigation -->
+    <header>
+        <nav>
+            <section class="nav-bar">
+                <input type="checkbox" id="check">
+                <section class="logo"><a href="index.html"><img src="./assets/media/logo.png" alt="Logo"></a></section> <!-- Replace with your logo file -->  
+                <ul class="menu">
+                    <li><a href="index.html" class="nav-link active-nav">Introduction</a></li>
+                    <li><a href="robotics-genai.html" class="nav-link">Robotics & Generative AI</a></li>
+                    <li><a href="health-tech.html" class="nav-link">Healthcare Tech</a></li>
+                    <li><a href="production-impact.html" class="nav-link">Production Impact</a></li>
+                    <li><a href="future-trends.html" class="nav-link">Future Trends</a></li>
+                    <li><a href="references.html" class="nav-link">References</a></li>
+                   <li><label for="check" class="close-menu"><i class="fas fa-times"></i></label></li>
+                </ul>
+                <label for="check" class="open-menu"><i class="fas fa-bars"></i></label>
+            </section>
+        </nav>
+    </header>
+
+    <!-- Main Content Section -->
+    <main id="homepage-main-section">
+        <section class="introduction-container">
+            <section id="introduction" class="hero-box">
+                <section class="hero-content">
+                    <h1 id="home-page-heading">“Exploring the Evolution and Impact of Technological Innovation”</h1>
+                    <p>
+                        From groundbreaking advancements in automation and artificial intelligence to transformative shifts in healthcare, our journey delves into the innovations that define the 21st century. This research highlights the life cycle of innovation, key sectors reshaping the world, and the future trends that hold limitless possibilities.
+                    </p>
+                </section>
+            </section>
+        </section>
+        <section>
+
+        </section>
+        <section id="form-section">
+            <section id="form-container">
+                <h2>Sign Up for Our Newsletter</h2>
+                <p>Fill out your information below to be signed up for our informative newsletter.</p>
+                <form action="https://wp.zybooks.com/form-viewer.php" method="POST" onsubmit="return validateForm()">
+                    <label for="first-name">First Name</label>
+                    <input type="text" id="first-name" placeholder="First Name">
+        
+                    <label for="last-name">Last Name</label>
+                    <input type="text" id="last-name" placeholder="Last Name">
+        
+                    <label for="email">Email Address</label>
+                    <input type="email" id="email" placeholder="Email Address">
+        
+                    <label for="company">Organization</label>
+                    <input type="text" id="company" placeholder="Company">
+        
+                    <div class="checkbox-container">
+                        <input type="checkbox" id="subscribe">
+                        <label for="subscribe">I agree to receive e-mails from your company and your terms and conditions.</label>
+                    </div>
+        
+                    <button type="submit">Sign Me Up</button>
+                </form>
+            </section>
+            <img src="./assets/media/newsletter.png" alt="Newsletter PNG">
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2024 Kalpalathika Ramanujam. All rights reserved.</p>
+    </footer>
+
+    <script src="./form-validation.js"></script>
+</body>
+</html>

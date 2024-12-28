@@ -37,3 +37,5 @@ You can view the design wireframes for the project on Figma:
 1. Clone the repository:  
    ```bash
    git clone https://github.com/username/repo.git
+
+2. Open the index.html file in your browser to view the project.

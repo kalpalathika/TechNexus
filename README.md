@@ -25,7 +25,6 @@
 - **Frontend**: HTML, CSS, JavaScript  
 - **Libraries**: Google Charts  
 - **Design**: Canva (for logo and favicon)  
-- **Backend**: PHP (form handling)
 
 ---
 

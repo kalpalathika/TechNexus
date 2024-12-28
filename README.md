@@ -14,7 +14,7 @@
 ## Preview
 
 ### Homepage  
-![Homepage](images/homepage.png)
+![Homepage](assets/media/homepage.png)
 
 ### Secondary Page  
 ![Secondary Page](images/secondary-page.png)

@@ -1,6 +1,6 @@
-# Technological Innovation Explorer
+# TechNexus
 
-**Technological Innovation Explorer** is a dynamic, informative website created with **HTML, CSS, and JavaScript**, designed to showcase advancements in technology, including robotics, AI, healthcare, and future trends.
+**TechNexus** is a dynamic, informative website created with **HTML, CSS, and JavaScript**, designed to showcase advancements in technology, including robotics, AI, healthcare, and future trends.
 
 ## Features
 - **Interactive Homepage**: Engaging design with animations and informative sections.

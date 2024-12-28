@@ -17,7 +17,7 @@
 ![Homepage](assets/media/homepage.png)
 
 ### Secondary Page  
-![Secondary Page](images/secondary-page.png)
+![Secondary Page](assets/media/secondaryPage.png)
 
 ---
 

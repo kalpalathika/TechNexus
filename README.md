@@ -19,6 +19,11 @@
 ### Secondary Page  
 ![Secondary Page](assets/media/secondaryPage.png)
 
+## Design Wireframes
+You can view the design wireframes for the project on Figma:  
+[View Figma Design: Ramanujam Kalpalathika Research Wireframes](https://www.figma.com/design/Fa9xAM1saN1ySnkEGZxNAL/Ramanujam_Kalpalathika_Research_Wireframes?node-id=0-1&t=UC5d2M5oUGblQDVK-1)
+
+
 ---
 
 ## Technologies Used
